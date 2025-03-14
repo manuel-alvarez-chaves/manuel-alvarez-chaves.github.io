@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* 2022 - ...: Doctoral researcher
+* 2022 - ... : Doctoral researcher
   * University of Stuttgart
 
-* 2018 - ...: Independet consultat
+* 2018 - ... : Independet consultat
   * For hydrology and hydraulic engineering projects
 
 * 2018 - 2019: Researcher
