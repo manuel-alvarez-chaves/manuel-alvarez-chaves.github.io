@@ -11,35 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Dr. Ing., University of Stuttgart, 2025 (expected)
+* M. Sc. in Flood risk management, IHE Delft, 2021
+* License in Civil Engineering, University of Costa Rica, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022 - ...: Doctoral researcher
+  * University of Stuttgart
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - ...: Independet consultat
+  * For hydrology and hydraulic engineering projects
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 - 2019: Researcher
+  * Center for Research in Sustainable Development (CIEDES) of the University of Costa Rica
+
+* 2018 - 2019: Civil design assistant
+  * DEHC Consulting Engineers, San José, Costa RIca
+
+* 2015 - 2017: Teaching assistant
+  * School of Civil Engineering of the University of Costa RIca
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Spanish (native)
+  * English (professional working profficiency)
+* Coding
+  * Python
+  * VBA
+  * C
+* DevOps
+  * Docker
+* Research software engineering
 
 Publications
 ======
@@ -53,12 +57,9 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Software
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.portafolio reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
