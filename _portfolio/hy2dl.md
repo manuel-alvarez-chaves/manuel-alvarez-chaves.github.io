@@ -1,6 +1,6 @@
 ---
 title: "Hy2DL"
-excerpt: "A Python repository to create raifall-runoff models using deep learning"
+excerpt: "A Python repository to create rainfall-runoff models using deep learning"
 collection: software
 ---
 
