@@ -20,7 +20,7 @@ Work experience
 * 2022 - ... : Doctoral researcher
   * University of Stuttgart
 
-* 2018 - ... : Independet consultat
+* 2018 - ... : Independent consultat
   * For hydrology and hydraulic engineering projects
 
 * 2018 - 2019: Researcher
@@ -30,7 +30,7 @@ Work experience
   * DEHC Consulting Engineers, San José, Costa RIca
 
 * 2015 - 2017: Teaching assistant
-  * School of Civil Engineering of the University of Costa RIca
+  * School of Civil Engineering of the University of Costa Rica
   
 Skills
 ======
