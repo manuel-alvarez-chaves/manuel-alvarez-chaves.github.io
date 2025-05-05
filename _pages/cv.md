@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="../files/2025-04-21_CV.pdf" width="100%" height="600px"></iframe>
+<iframe src="../files/CV_AlvarezChaves-Manuel_2025-05-05.pdf" width="100%" height="600px"></iframe>
